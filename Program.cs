@@ -95,6 +95,7 @@ namespace TombokSzamokkal
 
         }
 
+
         static void Main(string[] args)
         {
             Feltoltes();
