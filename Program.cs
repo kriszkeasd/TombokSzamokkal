@@ -4,7 +4,7 @@
     {
         static Random r = new Random();
         static int[] tomb = new int[15];
-        static void Feltolt()
+        static void Feltoltes()
         {
             for(int i = 0; i < tomb.Length; i++)
             {
@@ -22,7 +22,7 @@
 
         static void Main(string[] args)
         {
-            Feltolt();
+            Feltoltes();
         }
     }
 }
